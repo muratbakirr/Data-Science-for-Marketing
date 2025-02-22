@@ -1,1 +1,1 @@
-# Data-Science-for-Marketing
+# Data Science for Marketing
